@@ -1,0 +1,1 @@
+Figures of report will be stored here
